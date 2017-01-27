@@ -2,7 +2,6 @@
 //solved on 04-10-16
 
 #include<stdio.h>
-using namespace std;
 
 int fact_zero(long long int a)
 {
