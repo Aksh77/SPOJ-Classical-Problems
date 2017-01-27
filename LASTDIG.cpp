@@ -1,4 +1,5 @@
 //The Last Digit
+//Number Theory
 //solved on 01-10-16
 
 #include <iostream>
