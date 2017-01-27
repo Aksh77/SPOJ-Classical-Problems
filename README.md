@@ -1,1 +1,1 @@
-# SPOJ-Classical-Probelms
+# SPOJ-Classical-Problems
