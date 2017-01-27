@@ -2,7 +2,6 @@
 //solved on 10-04-16
 
 #include <stdio.h>
-using namespace std;
 
 int main() {
 	int n;
