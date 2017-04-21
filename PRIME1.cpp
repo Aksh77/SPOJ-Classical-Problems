@@ -1,3 +1,7 @@
+//Prime Generator
+//Rabin-Miller Primality Testing
+//solved on 21-04-17
+
 #include <bits/stdc++.h>
 using namespace std;
 
